@@ -7,7 +7,7 @@
  ## 6. [Model packages](https://nbviewer.jupyter.org/github/durgeshbhagat/nlpWithSpacy/blob/master/tutorials/chapter-1/5-9_Statistical%20Model.ipynb)
  ## 7. [Loading Models](https://nbviewer.jupyter.org/github/durgeshbhagat/nlpWithSpacy/blob/master/tutorials/chapter-1/5-9_Statistical%20Model.ipynb)
  ## 8. [Predicting linguistic annotations](https://nbviewer.jupyter.org/github/durgeshbhagat/nlpWithSpacy/blob/master/tutorials/chapter-1/5-9_Statistical%20Model.ipynb)
- ## 9. [Predicting named entities in context](https://nbviewer.jupyter.org/github/durgeshbhagat/nlpWithSpacy/blob/master/tutorials/chapter-1/5-9_Statistical%20Model.ipynb
+ ## 9. [Predicting named entities in context](https://nbviewer.jupyter.org/github/durgeshbhagat/nlpWithSpacy/blob/master/tutorials/chapter-1/5-9_Statistical%20Model.ipynb)
  ## 10. [Rule-based matching](https://pages.github.com/)
  ## 11. [Using the matcher](https://pages.github.com/)
  ## 12. [Writing match patterns](https://pages.github.com/)
